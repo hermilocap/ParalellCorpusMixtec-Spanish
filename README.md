@@ -1,8 +1,9 @@
 # Project Description
-This repository contains parallel texts written in Mixtec and Spanish. The corpora are classified by domains such as Laws, Religious, Health, Recipes.
-The texts are aligned at the sentence, paragraph, and word level.
+This repository contains a database of Spanish texts translated into Mixtec. The dataset is a very valuable resource for developing language technologies in the Mixtec language, automatic translation, text tagging, or summaries. The texts identified in the corpus are Laws, Religion, Health, and Educational. The parallel corpus contains 4,587 pairs of Spanish-Mixtec sentences.
 
-#Intallation
+This repository contains fine-tuning notebooks of the mBART-50, M2M100, and gpt-4o-mini-2024-07-18 models. These models were fine-tuned with the Mixtec data to test their performance and use in the development of language technologies. After fine-tuning, the new models were evaluated with BLEU and TER metrics.
+
+## Intallation
 1. Clone the repository
 ```bash
 https://github.com/hermilocap/ParalellCorpusMixtec-Spanish.git
