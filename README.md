@@ -3,8 +3,7 @@ This repository contains a database of Spanish texts translated into Mixtec. The
 
 This repository contains fine-tuning notebooks of the mBART-50, M2M100, and gpt-4o-mini-2024-07-18 models. These models were fine-tuned with the Mixtec data to test their performance and use in the development of language technologies. After fine-tuning, the new models were evaluated with BLEU and TER metrics.
 ## Acknowledgements
-Our dataset comprises a part of data we collected, and another part of the Spanish-Mixtec parallel dataset comes from Machine-Translation-Dataset-Papers-and-Scripts-for-Low-resource-Languages, which is licensed under the Apache 2.0 license. The original dataset can be found at https://github.com/atnafuatx/Machine-Translation-Resources.
-
+This dataset extends data from Machine-Translation-Dataset-Papers-and-Sctipts-for-Low-resource-Languages , licensed under Apache License 2.0, available at https://github.com/atnafuatx/Machine-Translation-Resources. Original data remains under Apache License 2.0.
 ## Intallation
 1. Clone the repository
 ```bash
